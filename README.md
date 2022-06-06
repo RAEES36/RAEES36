@@ -1,8 +1,8 @@
-![MasterHead](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1380) 
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHBmkrGw2FurA/profile-displaybackgroundimage-shrink_350_1400/0/1654369892620?e=1660176000&v=beta&t=1OLCP-mjI1nuQnrxqBiVoEG35fWiyeLiwalUekrIpBI) 
 <h1 align="center">Hi 👋, I'm Hassan Asim</h1>
 <h3 align="center">A passionate Back-End developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raees36&label=Profile%20views&color=0e75b6&style=flat" alt="raees36" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raees36&label=Profile%20views&color=0e75b6&style=flat" alt="raees36"" alt="raees36" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raees36" alt="raees36" /></a> </p>
 
